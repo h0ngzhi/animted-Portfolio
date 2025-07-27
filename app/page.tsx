@@ -22,7 +22,7 @@ import {
 } from "lucide-react"
 import Link from "next/link"
 import { AnimatePresence } from "framer-motion"
-//import SplashCursor from "../components/SplashCursor";
+import SplashCursor from "../components/SplashCursor";
 
 // Register GSAP plugins
 if (typeof window !== "undefined") {
